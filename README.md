@@ -23,7 +23,13 @@ This allows you to seamlessly integrate video playback into your projects:
 3. Add the RotoscopVideoPlayer prefab to your scene.
 4. Assign your video to the Video Clip property of the Video Player component within the RotoscopVideoPlayer prefab.
 5. Use the RotoscopyVideoRenderTexture as the texture for a RawImage or 3D mesh.
-6. Access the tool's editor for additional options by going to "Tools > Show Video Editor Player Editor".
+6. Access the tool's editor for additional options:
+* Select a GameObject containing the "Video Controller" component.
+* Go to "Tools > Show Video Editor Player Editor". This menu won't activate if you don't select a GameObject containing the "Video Controller" component.
+7. In the opened Editor Window controller, click play, pause to control the video.
+8. Click inside the progress bar to seek within the video. Seeking within the video currently works best while playing.
+9. Adjust video speed from 25% to 100% using the slider.
+10. The tool functions both in the Unity editor and in-game.
 
 
 # .
