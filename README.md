@@ -7,7 +7,7 @@ This allows you to seamlessly integrate video playback into your projects:
 
 * Overlay video content onto your 3D scenes.
 * Use video as a reference for animation and motion capture.
-* Facilitate rotoscoping techniques with tools like [UMotion](https://www.soxware.com/umotion/) ([UMotion Comunity](https://assetstore.unity.com/packages/tools/animation/umotion-community-animation-editor-95986), [UMotion Pro](https://assetstore.unity.com/packages/tools/animation/umotion-pro-animation-editor-95991)).
+* Facilitate rotoscoping techniques with tools like [UMotion](https://www.soxware.com/umotion/) ([UMotion Comunity](https://assetstore.unity.com/packages/tools/animation/umotion-community-animation-editor-95986), [UMotion Pro](https://assetstore.unity.com/packages/tools/animation/umotion-pro-animation-editor-95991), [Pose Editor](https://assetstore.unity.com/packages/tools/animation/pose-editor-146667)).
 
 **Features:**
 
